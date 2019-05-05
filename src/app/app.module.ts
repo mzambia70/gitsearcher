@@ -30,4 +30,4 @@ import { DateCountPipe } from './date-count.pipe';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { 
+export class AppModule {}
