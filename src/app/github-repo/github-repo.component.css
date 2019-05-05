@@ -1,0 +1,7 @@
+.display {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #84ffff;
+  border-radius: 5px;
+  background-color: rgba(208, 246, 235, 0.68);
+}
