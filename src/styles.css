@@ -1,6 +1,8 @@
 @import '~bootstrap/dist/css/bootstrap.css';
 body {
     background-color: rgb(173, 16, 16);
+    font-family:'Orbitron',sans-serif;
+    font size:10px;
 }
 
 .header {
