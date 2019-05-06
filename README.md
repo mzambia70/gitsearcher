@@ -8,11 +8,12 @@
 THis is a website that search for github users and show their repository.The project has been built using HTML,js and styled using CSS.
 
 ## BEHAVIOR DRIVEN DEVELOPMENT
-_______________________________________________________________________________________________________
+|------------------------------|----------------------------|-----------------------------------------|
 | behaviour                    |  input                     |   output                                |
-_______________________________________________________________________________________________________
+|------------------------------|----------------------------|-----------------------------------------|
 |it is a github user searcher  |   write a github user name | it brings a github user with thier detais|
-________________________________________________________________________________________________________
+|------------------------------|----------------------------|------------------------------------------|
+
 
 ## Setup/Installation Requirements
 1.Have a functional github account
